@@ -1,0 +1,4 @@
+Horizon,From,To,Calendar days,2Y change (bp),10Y change (bp),Spread change (bp),Curve move,Absolute move percentile,Historical comparisons
+1 observation,2026-10-08,2026-10-09,1,5.0,2.0,-3.0,Bear flattening,69.34,499
+5 observations (~1 week),2026-10-02,2026-10-09,7,-3.0,-4.0,-1.0,Bull flattening,13.54,495
+21 observations (~1 month),2026-09-10,2026-10-09,29,24.0,29.0,5.0,Bear steepening,43.11,479
