@@ -1,0 +1,9 @@
+{
+  "run_utc": "2026-10-14T00:29:42.052356+00:00",
+  "source_filename": "fred_treasury_2020-01-01_to_2026-10-13.csv",
+  "source_sha256": "193c47c8bd662457ce1bd48b20be7e2ffb140f82001aa48085f81281f3d9773b",
+  "requested_start": "2020-01-01",
+  "requested_end": "2026-10-13",
+  "mode": "uploaded snapshot",
+  "note": "Snapshot reproduction is not independent source verification."
+}

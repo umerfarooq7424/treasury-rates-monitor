@@ -1,0 +1,12 @@
+Requested period: 2020-01-01 through 2026-10-13.
+Actual complete coverage: 2020-01-02 through 2026-10-09.
+
+Source: Federal Reserve H.15 via FRED, DGS2 and DGS10. Constant-maturity yields are not individual bond returns.
+
+Dates are filtered locally. Missing pairs are preserved for audit and excluded without forward-filling. Missing dates have not been fully reconciled against the source publication calendar. Structural checks do not verify every numeric observation.
+
+Changes use 1, 5, and 21 complete observations. These approximate daily, weekly, and monthly periods; actual dates are displayed.
+
+Absolute spread changes are ranked against same-horizon changes ending within the preceding two calendar years. Windows overlapping the current move are excluded. Ties use midranks. Historical windows overlap one another, so percentiles are descriptive, not independent statistical tests, forecasts, or trading signals.
+
+The downloaded snapshot is not a point-in-time vintage dataset.

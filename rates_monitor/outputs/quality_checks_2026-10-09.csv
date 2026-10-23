@@ -1,0 +1,11 @@
+Check,Result
+Requested start,2020-01-01
+Requested end,2026-10-13
+Source rows within period,1768
+Duplicate dates,0
+Missing 2-year yields,73
+Missing 10-year yields,73
+Rows excluded,73
+Complete observations,1695
+First complete date,2020-01-02
+Last complete date,2026-10-09

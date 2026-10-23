@@ -1,0 +1,8 @@
+TREASURY CURVE CLIENT BRIEFING
+As of 2026-10-09
+
+Two-year yields stood at 4.80% and ten-year yields at 5.24%, with a spread of +44.0 bp.
+
+From 2026-10-02 to 2026-10-09, two-year yields moved -3.0 bp and ten-year yields moved -4.0 bp. The spread changed by -1.0 bp (bull flattening).
+
+Client implication: Review exposure by maturity. Both yield levels and curve shape matter; assess holdings, key-rate DV01, and hedges before estimating portfolio impact. These observations do not establish the cause of market moves or predict future returns.
